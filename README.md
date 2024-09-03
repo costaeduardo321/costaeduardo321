@@ -2,7 +2,7 @@
 
 Me chamo Eduardo
 
-- Estou estudando no alura;
+- Estou estudando no [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo este espaço para minha organização e compatilhamento dos meus projetos;
 
@@ -13,3 +13,4 @@ Me chamo Eduardo
   eduardo.costa.silva11@escola.pr.gov.br
 
   
+![](https://media.tenor.com/5dcPQOx1hP4AAAAM/holaa-emoji.gif)
